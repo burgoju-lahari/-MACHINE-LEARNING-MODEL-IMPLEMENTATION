@@ -26,5 +26,8 @@ This project helped me understand how real-world applications of machine learnin
 
 *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/46baffc8-210b-44cb-a698-46b7124e9fbe)
+
+
 
 
