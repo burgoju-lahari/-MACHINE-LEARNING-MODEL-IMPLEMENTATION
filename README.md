@@ -1,17 +1,5 @@
 # -MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : Burgoju Lahari
-
-*INTERN ID* : CT04WU108
-
-*DOMAIN* : Python Programming
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTOSH
-
 *Task*: MACHINE LEARNING MODEL IMPLEMENTATION
 
 Working on the spam email detection project was a great learning experience. The main goal of this project was to create a machine learning model using Scikit-Learn that can classify messages as either “spam” or “ham” (not spam). I used a dataset that contained text messages along with their labels (spam or ham).
